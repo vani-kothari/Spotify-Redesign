@@ -146,14 +146,12 @@ Task: Choose a popular mobile app and redesign its UI/UX to address a specific p
 - **[View Figma Prototype]([https://figma.com/your-prototype-link](https://www.figma.com/proto/6EbZz0Unlgw6QHstaJ79KQ/Spotify-Redesign?page-id=0%3A1&node-id=3-2&p=f&viewport=-1092%2C186%2C0.56&t=DPu9vAAbk08dtyNG-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3%3A2))** - Clickable demo
 
 ### **📋 Complete Documentation:**
-- **[Detailed Case Study](CASE-STUDY.md)** - Full methodology and analysis
-- **[User Research Findings](research/user-survey-results.md)** - Survey insights
-- **[Design Process Documentation](process/)** - Step-by-step methodology
+- **[Detailed Case Study](casestudy.md)** - Full methodology and analysis
+- **[User Research Findings](usersurveyresults.md)** - Survey insights
 
 ### **🎨 Visual Assets:**
-- **[Before/After Comparisons](assets/comparison-charts/)** - Side-by-side improvements
+- **[Before/After Comparisons](prototype/comparison-charts/)** - Side-by-side improvements
 - **[Redesigned Mockups](prototypes/after-screens/)** - High-fidelity screens
-- **[Wireframes & Sketches](prototypes/wireframes/)** - Design exploration
 
 ---
 
