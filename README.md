@@ -14,6 +14,7 @@ MENTOR: NEELA SANTOSH
 
 Task: Choose a popular mobile app and redesign its UI/UX to address a specific pain point
 --------------------------------------------------------------------------------------------------------------------------------
+![chart](prototype/chart.png)
 ## 📱 PROJECT OVERVIEW
 
 ### **App Selected: Spotify Mobile Application**
@@ -150,7 +151,7 @@ Task: Choose a popular mobile app and redesign its UI/UX to address a specific p
 - **[User Research Findings](usersurveyresults.md)** - Survey insights
 
 ### **🎨 Visual Assets:**
-- **[Before/After Comparisons](prototype/comparison-charts/)** - Side-by-side improvements
+- **[Before/After Comparisons](prototype/)** - Side-by-side improvements
 - **[Redesigned Mockups](prototypes/after-screens/)** - High-fidelity screens
 
 ---
